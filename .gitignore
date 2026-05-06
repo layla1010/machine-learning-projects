@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+advance-ml-models/mnist.csv
+advance-ml-models/synthetic_highdim_30k.csv
+Thumbs.db
